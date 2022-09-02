@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 </p>
 
 
-![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=radical)
+![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&show_icons=true&theme=merko)](https://github.com/IkumaUchida/github-readme-stats)
+
