@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida)](https://github.com/IkumaUchida/github-readme-stats)
+![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=radical)
