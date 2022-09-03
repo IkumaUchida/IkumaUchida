@@ -41,6 +41,15 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ikuma-uchida" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
+<h3>Latest Tweets</h3>
+<p>
+  <a href="https://twitter.com/ikuma_uchida18"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ikuma_uchida18&amp;layout=wide" alt="github-readme-twitter">
+  </a>
+</p>
+
+
+<h3>GitHub Stats</h3>
+
 ![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&show_icons=true&theme=merko)](https://github.com/IkumaUchida/github-readme-stats)
 
