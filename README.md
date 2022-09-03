@@ -29,11 +29,17 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/ikuma_uchida18">
     <img height="20" src="https://img.shields.io/twitter/follow/ikuma_uchida18?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://www.linkedin.com/in/ikuma-uchida/">
-    <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/IkumaUchida" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  </a> 
+  <a href="https://twitter.com/ikuma_uchida18" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/ikuma-uchida" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
 ![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&show_icons=true&theme=merko)](https://github.com/IkumaUchida/github-readme-stats)
