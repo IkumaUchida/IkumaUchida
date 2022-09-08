@@ -40,8 +40,17 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://www.linkedin.com/in/ikuma-uchida" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://www.wantedly.com/id/ikuma_uchida" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Wantedly-white?&style=for-the-badge&logo=wantedly&logoColor=white" />
-  
+   
+<h3>Languages and tools used frequently</h3>
+
+<p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 </p>
+scikit-learn
 
 <h3>Latest Tweets</h3>
 <p>
