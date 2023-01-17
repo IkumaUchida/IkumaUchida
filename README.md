@@ -58,8 +58,9 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <h3>GitHub Stats</h3>
 
-![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&show_icons=true&theme=merko)](https://github.com/IkumaUchida/github-readme-stats)
+![Ikuma's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=IkumaUchida&show_icons=true&theme=merko)
+[![Top Langs]( https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&show_icons=true&theme=merko)](https://github.com/IkumaUchida/github-readme-stats)
 
