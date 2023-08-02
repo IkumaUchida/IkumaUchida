@@ -22,10 +22,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/IkumaUchida">
     <img height="20" src="https://img.shields.io/github/followers/IkumaUchida?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://github.com/IkumaUchida">
-    <img height="20" src="https://img.shields.io/github/stars/IkumaUchida?label=star&logo=github&style=flat" />
-  </a>  
+  </a> 
   <a href="http://twitter.com/ikuma_uchida18">
     <img height="20" src="https://img.shields.io/twitter/follow/ikuma_uchida18?label=Twitter&logo=twitter&style=flat" />
   </a>
