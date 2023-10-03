@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 </p>
 
-<h3>Latest Tweets</h3>
-<p>
-  <a href="https://twitter.com/ikuma_uchida18"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ikuma_uchida18&amp;layout=wide" alt="github-readme-twitter">
-  </a>
-</p>
-
 
 
 <h3>GitHub Stats</h3>
