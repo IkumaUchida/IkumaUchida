@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 <h3>GitHub Stats</h3>
 
-![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Ikuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=dark#gh-dark-mode-only)
