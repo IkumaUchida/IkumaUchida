@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Ikuma%20Uchida&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Sports%20%C3%97%20AI%20%7C%20Computer%20Vision%20%7C%20iOS&descSize=20&descColor=ffffff&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B1B,100:1a3a2e&height=250&section=header&text=Ikuma%20Uchida&fontSize=60&fontColor=38bd85&animation=fadeIn&fontAlignY=35&desc=Sports%20%C3%97%20AI%20%7C%20Computer%20Vision&descSize=20&descColor=ffffff&descAlignY=55)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Sports+Tech+Developer+%E2%9A%BD;360%C2%B0+Video+%C3%97+Deep+Learning+%F0%9F%8E%AC&font=Fira+Code&center=true&width=500&height=45&color=e94560&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Sports+Tech+Developer&font=Fira+Code&center=true&width=440&height=45&color=38bd85&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -12,20 +12,12 @@
 
 ```python
 class IkumaUchida:
-    role = "AI Engineer / iOS Developer"
+    role = "AI Engineer"
     company = "AllClip"
-    focus = ["Sports Video AI", "360° Panorama Stitching", "Object Detection"]
-    
-    languages = ["Python", "Swift", "TypeScript"]
-    ai_ml = ["RF-DETR", "YOLO", "ViTPose", "PyTorch", "OpenCV"]
-    cloud = ["AWS (EC2, S3, Lambda, Batch)", "Tailscale VPN"]
-    ios = ["SwiftUI", "AVFoundation", "Core ML"]
-    
-    fun_fact = "Building a platform that turns 360° sports footage into AI-powered highlights"
+    focus = ["Sports Video AI"]
 ```
 
-- Working on **[AllClip](https://allclip.app)** - Sports x AI Video Platform
-- DJI Osmo 360° camera footage -> AI Processing -> Auto-Zoom & Highlights
+- Working on **AllClip** - Sports x AI Video Platform
 - University of Tsukuba Alumni
 
 ---
@@ -43,12 +35,12 @@ class IkumaUchida:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=e94560&title_color=e94560&text_color=ffffff" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=IkumaUchida&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&hide_border=true&bg_color=1B1B1B&icon_color=38bd85&title_color=38bd85&text_color=ffffff&ring_color=38bd85" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=IkumaUchida&hide_border=true&background=1B1B1B&ring=38bd85&fire=f87d6c&currStreakLabel=38bd85&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&hide_border=true&bg_color=1B1B1B&title_color=38bd85&text_color=ffffff" />
 </p>
 
 ---
@@ -56,7 +48,7 @@ class IkumaUchida:
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IkumaUchida&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IkumaUchida&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -64,7 +56,7 @@ class IkumaUchida:
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkumaUchida&theme=redical&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkumaUchida&hide_border=true&bg_color=1B1B1B&color=38bd85&line=38bd85&point=f87d6c&area=true&area_color=38bd85" />
 </p>
 
 ---
@@ -79,7 +71,7 @@ class IkumaUchida:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IkumaUchida&color=e94560&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=IkumaUchida&color=38bd85&style=flat-square&label=Profile+Views" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B1B,100:1a3a2e&height=120&section=footer)
