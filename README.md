@@ -35,20 +35,7 @@ class IkumaUchida:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IkumaUchida&show_icons=true&hide_border=true&bg_color=1B1B1B&icon_color=38bd85&title_color=38bd85&text_color=ffffff&ring_color=38bd85" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=IkumaUchida&hide_border=true&background=1B1B1B&ring=38bd85&fire=f87d6c&currStreakLabel=38bd85&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkumaUchida&layout=compact&hide_border=true&bg_color=1B1B1B&title_color=38bd85&text_color=ffffff" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IkumaUchida&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
