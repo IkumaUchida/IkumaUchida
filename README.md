@@ -40,14 +40,6 @@ class IkumaUchida:
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkumaUchida&hide_border=true&bg_color=1B1B1B&color=38bd85&line=38bd85&point=f87d6c&area=true&area_color=38bd85" />
-</p>
-
----
-
 ## Connect with Me
 
 <p align="center">
